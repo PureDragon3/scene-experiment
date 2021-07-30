@@ -1,0 +1,12 @@
+{
+    "@;MZ3_bTJo:8m,?GUv(H": {
+        "data": "hwQQABAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVX/VVVVVVVVVVVfVVVV/1VVVfVVVVVVVVVV9VVVVVVVVVX1VVVVVVVVVfVVVVVVVVVV9VVVVVVVVVX1VVVVVVVVVfVVVVX/VVVV9VVVVVVVVVVfVVVVVVVV/1VVVVVVVVVVVVVVVVVVVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Smile_1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
