@@ -1,6 +1,3 @@
-controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
-	
-})
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleInsignia, function (sprite, location) {
     tiles.placeOnTile(mySprite, tiles.getTileLocation(-0.45, -0.45))
     tiles.setTilemap(tilemap`level4`)
