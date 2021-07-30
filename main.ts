@@ -1,7 +1,7 @@
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleInsignia, function (sprite, location) {
-    tiles.placeOnTile(mySprite, tiles.getTileLocation(-0.45, -0.45))
     tiles.setTilemap(tilemap`level4`)
     scene.setBackgroundColor(10)
+    tiles.placeOnTile(mySprite, tiles.getTileLocation(1, 1))
 })
 let mySprite: Sprite = null
 mySprite = sprites.create(img`
